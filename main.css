@@ -60,16 +60,12 @@ main{
     text-transform: uppercase;
     color: hsl(228, 12%, 48%);
     letter-spacing: 10px;
-    font-size: 15px;
-    /* padding: 12px; */
-    /* font-size: 30px; */
+    font-size: 18px;
 }
 .product_details h1 {
-    /* font-size: 90px; */
     font-weight: bold;
     font-family: 'Fraunces';
     padding: 10px 0;
-    /* line-height: 8 0px; */
 }
 .product_details p {
     font-size: 12px;
